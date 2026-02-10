@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Nicholas
 
-<!--
-**nicholasjayee/nicholasjayee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I am a passionate software engineer with **more than 5 years of experience** in building robust and scalable applications. My expertise spans across web, mobile, desktop development, and data analysis.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in creating efficient solutions and have a strong background in:
+
+- **Web Design & Development**
+- **Desktop Applications**
+- **Mobile Applications**
+- **Data Analysis**
+- **Agile Methodologies (Jira)**
+
+## 🛠️ Tech Stack
+
+I have hands-on experience with a wide range of technologies and tools:
+
+**Languages:**
+- Java
+- C
+- Python
+- TypeScript
+
+**Frameworks & Libraries:**
+- React
+- React Native
+- Next.js
+- React Three Fiber
+- Tailwind CSS
+
+## 📫 Connect with Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+- [LinkedIn](#)
+- [Email](#)
+- [Website](#)
+
+---
+⭐️ From [nicholasjayee](https://github.com/nicholasjayee)
