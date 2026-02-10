@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nicholas%20Jayee&fontSize=90)
+
 # Hi there 👋, I'm Nicholas
 
 Welcome to my GitHub portfolio! I am a passionate software engineer with **more than 5 years of experience** in building robust and scalable applications. My expertise spans across web, mobile, desktop development, and data analysis.
