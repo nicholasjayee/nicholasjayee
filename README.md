@@ -1,3 +1,4 @@
+![Header](banner.png)
 # Hi there 👋, I'm Nicholas
 
 Welcome to my GitHub portfolio! I am a passionate software engineer with **more than 5 years of experience** in building robust and scalable applications. My expertise spans across web, mobile, desktop development, and data analysis.
